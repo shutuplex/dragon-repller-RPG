@@ -1,2 +1,2 @@
 # dragon-repller-RPG
-a A simple RPG game to get idea about how role playing gacha(turn based) game works made by using Vanilla js.
+A simple RPG game to get idea about how role playing gacha(turn based) game works made by using Vanilla js.
